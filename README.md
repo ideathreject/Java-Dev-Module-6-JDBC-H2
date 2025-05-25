@@ -68,6 +68,5 @@ public class MaxProjectCountClient {
 List<MaxProjectCountClient> maxProjectCountClients = new DatabaseQueryService().findMaxProjectsClient();
 ```
 
----
 
 This README describes the structure and tasks of the project and provides guidance on how to implement the database connection, initialization, population, and querying layers.
